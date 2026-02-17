@@ -1,0 +1,21 @@
+# 8 security domains (defined by CISSP)
+
+Security and risk management: Security goals and objectives, risks, compliance, etc.
+
+Asset security: Securing physical and digital assets.
+
+Security architecture & engineering: Optimise data security w/ tools, systems, processes.
+
+Comms & network security: Securing (and managing) physical networks & wireless comms.
+
+Identity & access mgmt: Validating identities, roles, etc.
+
+Security assessment & testing: Audits, testing, analysing data.
+
+Security operations: Investigations, preventative measures.
+
+Software development security: Coding securely!
+
+Terms and definitions from Course 1, Module 2
+
+Adversarial artificial intelligence (AI): A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently 
